@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="2" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-28T11:46:57 IST" name="Default suite" finished-at="2022-05-28T11:47:04 IST" duration-ms="6792">
+    <groups>
+    </groups>
+    <test started-at="2022-05-28T11:46:57 IST" name="Default test" finished-at="2022-05-28T11:47:04 IST" duration-ms="6792">
+      <class name="test.ExtentReportsWithTestNG">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ExtentReportsWithTestNG@14028087]" started-at="2022-05-28T11:46:56 IST" name="setup" finished-at="2022-05-28T11:46:57 IST" duration-ms="757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupBrowser()[pri:0, instance:test.ExtentReportsWithTestNG@14028087]" started-at="2022-05-28T11:46:57 IST" name="setupBrowser" finished-at="2022-05-28T11:47:03 IST" duration-ms="6088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:test.ExtentReportsWithTestNG@14028087]" started-at="2022-05-28T11:47:03 IST" name="tearDownTest" finished-at="2022-05-28T11:47:04 IST" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.ExtentReportsWithTestNG@14028087]" started-at="2022-05-28T11:47:04 IST" name="teardown" finished-at="2022-05-28T11:47:04 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.ExtentReportsWithTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
